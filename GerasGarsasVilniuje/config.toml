@@ -1,4 +1,4 @@
-baseURL = 'https://egiuha.github.io'
+baseURL = 'https://egiuha.github.io/'
 languageCode = 'en-us'
 title = 'Geras Garsas Vilniuje'
 theme = 'hello-friend'
